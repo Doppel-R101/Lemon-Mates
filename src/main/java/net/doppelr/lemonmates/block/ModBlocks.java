@@ -20,13 +20,13 @@ public class ModBlocks {
     public static final DeferredBlock<Block> CITRON_LOG = registerBlock("citron_log",
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(4f).sound(SoundType.WOOD)));
-    public static final DeferredBlock<Block> CITRON_LEAF = registerBlock("citron_leaf",
+    public static final DeferredBlock<Block> CITRON_LEAVES = registerBlock("citron_leaves",
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(4f).sound(SoundType.WOOD)));
     public static final DeferredBlock<Block> ORANGE_LOG = registerBlock("orange_log",
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(4f).sound(SoundType.WOOD)));
-    public static final DeferredBlock<Block> ORANGE_LEAF = registerBlock("orange_leaf",
+    public static final DeferredBlock<Block> ORANGE_LEAVES = registerBlock("orange_leaves",
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(4f).sound(SoundType.WOOD)));
 

@@ -11,8 +11,6 @@ import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.DeferredHolder;
 
-import java.util.function.Supplier;
-
 public class ModCreativeModeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TAB =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, LemonMates.MOD_ID);
@@ -94,9 +92,9 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.ORANGE_SAPLING);
                         output.accept(ModItems.RASPBERRY);
                         output.accept(ModBlocks.CITRON_LOG);
-                        output.accept(ModBlocks.CITRON_LEAF);
+                        output.accept(ModBlocks.CITRON_LEAVES);
                         output.accept(ModBlocks.ORANGE_LOG);
-                        output.accept(ModBlocks.ORANGE_LEAF);
+                        output.accept(ModBlocks.ORANGE_LEAVES);
                     })
 
                     .build()
