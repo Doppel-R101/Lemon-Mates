@@ -3,29 +3,32 @@
   "heat_requirement": "heated",
   "ingredients": [
     {
-      "fluid": "minecraft:water",
       "type": "fluid_stack",
-      "amount": 250
+      "amount": 125,
+      "fluid": "minecraft:water"
     },
     {
-      "item": "minecraft:sugar",
-      "count": 9
+      "item": "minecraft:sugar"
     },
     {
-      "item": "lemonmates:citron",
-      "count": 2
+      "item": "minecraft:sugar"
     },
     {
-      "item": "lemonmates:orange",
-      "count": 2
+      "item": "minecraft:sugar"
     },
     {
-      "item": "create:dough",
-      "count": 1
+      "item": "lemonmates:citron"
+    },
+    {
+      "item": "lemonmates:orange"
+    },
+    {
+      "item": "create:dough"
     }
   ],
   "results": [
     {
+      "amount": 200,
       "id": "lemonmates:mixed_summermix_lemonade_fluid"
     }
   ]

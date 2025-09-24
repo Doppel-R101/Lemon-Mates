@@ -3,21 +3,35 @@
   "heat_requirement": "heated",
   "ingredients": [
     {
-      "fluid": "minecraft:water",
       "type": "fluid_stack",
-      "amount": 250
+      "amount": 125,
+      "fluid": "minecraft:water"
     },
     {
-      "item": "minecraft:sugar",
-      "count": 9
+      "item": "minecraft:sugar"
     },
     {
-      "item": "lemonmates:citron",
-      "count": 6
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "lemonmates:citron"
+    },
+    {
+      "item": "lemonmates:citron"
+    },
+    {
+      "item": "lemonmates:citron"
     }
   ],
   "results": [
     {
+      "amount": 200,
       "id": "lemonmates:mixed_citron_lemonade_fluid"
     }
   ]
