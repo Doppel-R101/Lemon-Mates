@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "tfmg:plastic_block"
+    },
+    {
+      "tag": "create:mechanical_drill"
+    }
+  ],
+  "keep_held_item": true,
+  "results": [
+    {
+      "id": "lemonmates:bottle_form"
+    }
+  ]
+}
