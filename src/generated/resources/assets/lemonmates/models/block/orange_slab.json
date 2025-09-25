@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "lemonmates:block/orange_planks",
-    "side": "lemonmates:block/orange_planks",
-    "top": "lemonmates:block/orange_planks"
-  }
-}
