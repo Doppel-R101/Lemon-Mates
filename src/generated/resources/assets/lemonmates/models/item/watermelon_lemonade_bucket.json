@@ -1,0 +1,5 @@
+{
+  "parent": "lemonmates:item/lemonade_bucket",
+  "fluid": "lemonmates:watermelon_lemonade",
+  "loader": "neoforge:fluid_container"
+}
