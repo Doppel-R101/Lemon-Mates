@@ -2,6 +2,7 @@ package net.doppelr.lemonmates;
 
 import net.doppelr.lemonmates.block.ModBlocks;
 import net.doppelr.lemonmates.block.entity.ModBlockEntities;
+import net.doppelr.lemonmates.datagen.DataGenerators;
 import net.doppelr.lemonmates.fluid.ModFluids;
 import net.doppelr.lemonmates.entity.ModEntities;
 import net.doppelr.lemonmates.item.ModItems;
@@ -29,6 +30,7 @@ public class LemonMates {
         ModBlockEntities.register(modEventBus);
 
         ModEntities.register(modEventBus);
+        modEventBus.addListener(DataGenerators::gatherData);
     }
 
     public static ResourceLocation rl(String path){
