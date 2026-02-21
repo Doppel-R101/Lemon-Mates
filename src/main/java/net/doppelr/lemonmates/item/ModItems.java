@@ -145,6 +145,11 @@ public class ModItems {
         () -> new ModBoatItem(true, ModBoatEntity.Type.ORANGE, new Item.Properties().stacksTo(1)));
 
 
+    // Serving related
+    // Glasses
+
+
+
     public static void register(IEventBus eventBus) {
          ITEMS.register(eventBus);
     }
