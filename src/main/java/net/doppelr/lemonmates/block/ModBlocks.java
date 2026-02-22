@@ -109,8 +109,8 @@ public class ModBlocks {
     public static final DeferredBlock<Block> RASPBERRY_CRATE = registerBlock("raspberry_crate",
         () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
 
-    public static final DeferredBlock<Block> DRINKING_GLASS_FLUID = registerBlock("drinking_glass_fluid",
-        () -> new ModDrinkingGlassBlock(BlockBehaviour.Properties.of().noOcclusion()));
+    public static final DeferredBlock<Block> LEMONADE_GLASS = registerBlock("lemonade_glass",
+        () -> new ModDrinkingGlassBlock(BlockBehaviour.Properties.of()));
 
     private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier <T> block) {
         DeferredBlock<T> toReturn = BLOCKS.register(name, block);

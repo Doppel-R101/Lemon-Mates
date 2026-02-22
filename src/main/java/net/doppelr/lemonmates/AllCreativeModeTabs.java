@@ -35,7 +35,7 @@ public class AllCreativeModeTabs {
                 output.accept(ModBlocks.RASPBERRY_CRATE);
 
                 // Misc
-                output.accept(ModBlocks.DRINKING_GLASS_FLUID);
+                output.accept(ModBlocks.LEMONADE_GLASS);
 
                 // Finished Lemonades
                 output.accept(ModItems.CITRON_LEMONADE_BOTTLE);

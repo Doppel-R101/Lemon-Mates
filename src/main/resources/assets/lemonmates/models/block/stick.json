@@ -1,5 +1,6 @@
 {
 	"parent": "minecraft:generated",
+	"render_type": "minecraft:translucent",
 	"textures": {
 		"layer0": "item/stick"
 	},
@@ -9,25 +10,25 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "item/lemonade_glass"
+			"model": "lemonmates:block/lemonade_glass"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "item/lemon_slice"
+			"model": "lemonmates:block/lemon_slice"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "item/orange_slice"
+			"model": "lemonmates:block/orange_slice"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "item/umbrella"
+			"model": "lemonmates:block/umbrella"
 		},
 
 
@@ -36,13 +37,13 @@
 			"predicate": {
 				"custom_model_data": 10
 			},
-			"model": "item/lemonade_glass_fluid_half"
+			"model": "lemonmates:block/lemonade_glass_fluid_half"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 11
 			},
-			"model": "item/lemonade_glass_fluid_full"
+			"model": "lemonmates:block/lemonade_glass_fluid_full"
 		},
 
 
@@ -51,25 +52,25 @@
 			"predicate": {
 				"custom_model_data": 23
 			},
-			"model": "item/straw_3"
+			"model": "lemonmates:block/straw_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 24
 			},
-			"model": "item/straw_4"
+			"model": "lemonmates:block/straw_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 25
 			},
-			"model": "item/straw_5"
+			"model": "lemonmates:block/straw_5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 26
 			},
-			"model": "item/straw_6"
+			"model": "lemonmates:block/straw_6"
 		}
 
 		]

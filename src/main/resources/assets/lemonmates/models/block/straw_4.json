@@ -1,0 +1,69 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"render_type": "minecraft:translucent",
+	"textures": {
+		"s40": "lemonmates:block/straw_4",
+		"s41": "lemonmates:block/straw_4",
+		"s42": "lemonmates:block/straw_4",
+		"s43": "lemonmates:block/straw_4",
+		"particle": "lemonmates:item/empty"
+	},
+	"elements": [
+		{
+			"name": "bottom",
+			"from": [8, 1, 9],
+			"to": [9, 3.25, 10],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8.5, 7, 10]},
+			"faces": {
+				"north": {"uv": [0, 6, 1, 8], "texture": "#s40"},
+				"east": {"uv": [0, 6, 1, 8], "texture": "#s40"},
+				"south": {"uv": [0, 6, 1, 8], "texture": "#s40"},
+				"west": {"uv": [0, 6, 1, 8], "texture": "#s40"},
+				"down": {"uv": [2, 1, 1, 2], "texture": "#s40"}
+			}
+		},
+		{
+			"name": "middle_bottom",
+			"from": [8, 3.25, 9],
+			"to": [9, 5.5, 10],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8.5, 7, 10]},
+			"faces": {
+				"north": {"uv": [0, 4, 1, 6], "texture": "#s41"},
+				"east": {"uv": [0, 4, 1, 6], "texture": "#s41"},
+				"south": {"uv": [0, 4, 1, 6], "texture": "#s41"},
+				"west": {"uv": [0, 4, 1, 6], "texture": "#s41"}
+			}
+		},
+		{
+			"name": "middle_top",
+			"from": [8, 5.5, 9],
+			"to": [9, 7.75, 10],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8.5, 7, 10]},
+			"faces": {
+				"north": {"uv": [0, 2, 1, 4], "texture": "#s42"},
+				"east": {"uv": [0, 2, 1, 4], "texture": "#s42"},
+				"south": {"uv": [0, 2, 1, 4], "texture": "#s42"},
+				"west": {"uv": [0, 2, 1, 4], "texture": "#s42"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [8, 7.75, 9],
+			"to": [9, 10, 10],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8.5, 7, 10]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 2], "texture": "#s43"},
+				"east": {"uv": [0, 0, 1, 2], "texture": "#s43"},
+				"south": {"uv": [0, 0, 1, 2], "texture": "#s43"},
+				"west": {"uv": [0, 0, 1, 2], "texture": "#s43"},
+				"up": {"uv": [2, 1, 1, 0], "texture": "#s43"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 14.5, 0]
+		}
+	}
+}

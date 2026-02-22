@@ -125,7 +125,7 @@ public class ModBlockLootTableProvider extends BlockLootSubProvider {
         dropSelf(ModBlocks.CITRON_CRATE.get());
         dropSelf(ModBlocks.RASPBERRY_CRATE.get());
 
-        dropSelf(ModBlocks.DRINKING_GLASS_FLUID.get());
+        dropSelf(ModBlocks.LEMONADE_GLASS.get());
     }
 
     @Override
