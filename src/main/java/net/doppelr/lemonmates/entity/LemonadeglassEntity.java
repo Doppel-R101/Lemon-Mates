@@ -12,7 +12,7 @@ public class LemonadeglassEntity extends BlockEntity {
     private String lemonade; // none, citronFull, citronHalf, orangeFull, orangeHalf, raspberryFull, raspberryHalf, summerFull, summerHalf, watermelonFull, watermelonHalf
     private int umbrellaMain; // 0 = white, 1 = light gray, 2 = gray, 3 = black, 4 = brown, 5 = red, 6 = orange, 7 = yellow, 8 = lime, 9 = green, 10 = cyan, 11 = light blue, 12 = blue, 13 = purple, 14 = magenta, 15 = pink
     private int umbrellaSecondary; // 0 = white, 1 = light gray, 2 = gray, 3 = black, 4 = brown, 5 = red, 6 = orange, 7 = yellow, 8 = lime, 9 = green, 10 = cyan, 11 = light blue, 12 = blue, 13 = purple, 14 = magenta, 15 = pink
-    private int straw; // 0 = none, 1 = red/white, 2 = ?, 3 = ?, 4 = ?, 5 = ?, 6 = ?, 7 = ?, 8 = ?, 9 = ?, 10 = ?, 11 = ?, 12 = ?, 13 = ?, 14 = ?, 15 = ?, 16 = ?, 17 = ?, 18 = ?, 19 = ?, 20 = ?
+    private int straw; // 0 = none, 1 = red/white, 2 = rainbow, 3 = trans, 4 = nonbinary, 5 = lesbian, 6 = gay, 7 = genderfluid, 8 = ace, 9 = aro, 10 = agender, 11 = aroace, 12 = bisexual, 13 = pansexual
 
     public LemonadeglassEntity(BlockPos pos, BlockState state) {
         super(ModBlockEntities.LEMONADE_GLASS_ENTITY.get(), pos, state);
