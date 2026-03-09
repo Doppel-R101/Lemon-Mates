@@ -1,4 +1,4 @@
-// 1.21.1	2025-10-18T23:06:38.9402899	Item Models: lemonmates
+// 1.21.1	2026-03-10T00:06:46.8611383	Item Models: lemonmates
 138a42244c73c0017b7a51a1e09d007f8eb51adf assets/lemonmates/models/item/bioplastic_mass.json
 caa1f3144e11981981ff6f72430621c0f982693a assets/lemonmates/models/item/bottle_cap.json
 9eb3735862401fbd689579dd466c19ea9dffda34 assets/lemonmates/models/item/bottle_empty.json
@@ -67,6 +67,19 @@ dd5b82a54dbe11b750f1775c43acce7ce0b73bcc assets/lemonmates/models/item/raspberry
 1a625bd1cf17cfc14f31bec13c78f6a73cce40f9 assets/lemonmates/models/item/raspberry_lemonade_bucket.json
 6ade2212c423ac19b8e5655d235d82e6cc97b23a assets/lemonmates/models/item/seed_flour.json
 b7097f639ceaf9f6bdc5d5b8d68dea101766b908 assets/lemonmates/models/item/starch.json
+0930de4436848bf9403ff6d0bead9ed0ace114dd assets/lemonmates/models/item/straw_ace.json
+8451739f9ac155359bfdc286c60ef9e80f635cd7 assets/lemonmates/models/item/straw_agender.json
+662608dbf4d2f895fe89cae170ff089f65a1292c assets/lemonmates/models/item/straw_aro.json
+5c874f61fd02a596964c287e63da36ead5fcb008 assets/lemonmates/models/item/straw_aroace.json
+97149fc4850ca792ad84a2782777dafb3bfa807f assets/lemonmates/models/item/straw_basic.json
+a86167ca2180f684147934a51b183488a4568d09 assets/lemonmates/models/item/straw_bi.json
+91dcf6fdedc39eb6c44a8029768f7a4a95474894 assets/lemonmates/models/item/straw_gay.json
+ef0e7344140047c31e0215810297f4a8716c6b62 assets/lemonmates/models/item/straw_genderfluid.json
+cef27b8c546c4e42e6e5d34715988ea2272cc1e6 assets/lemonmates/models/item/straw_lesbian.json
+1023a0441bdb5f3a70bceb798a2abf3f15dd55d6 assets/lemonmates/models/item/straw_nonbinary.json
+779596321c053c606f0f4b7a4536b069b4d6de32 assets/lemonmates/models/item/straw_pan.json
+da3309ae6c95226b638e2d63e011ecc511175bab assets/lemonmates/models/item/straw_rainbow.json
+91efe2cba5260e0c190b24b8f7a374c887f3a68f assets/lemonmates/models/item/straw_trans.json
 9cdcfd87ff73dd7d76ee274ddc39b7f1204254de assets/lemonmates/models/item/summermix_lemonade_bottle.json
 1bb343f5b50274911e301dd7b57f8b2acdf44f8b assets/lemonmates/models/item/summermix_lemonade_bottle_drinking.json
 094467c7bb51635cce6818380443e928a91fc97c assets/lemonmates/models/item/summermix_lemonade_bucket.json
