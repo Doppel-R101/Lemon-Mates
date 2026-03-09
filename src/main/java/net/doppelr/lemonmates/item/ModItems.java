@@ -144,6 +144,35 @@ public class ModItems {
     public static final DeferredItem<Item> ORANGE_CHEST_BOAT = ITEMS.register("orange_chest_boat",
         () -> new ModBoatItem(true, ModBoatEntity.Type.ORANGE, new Item.Properties().stacksTo(1)));
 
+    // Straws
+    // 2 = rainbow, 3 = trans, 4 = nonbinary, 5 = lesbian, 6 = gay, 7 = genderfluid, 8 = ace, 9 = aro, 10 = agender, 11 = aroace, 12 = bisexual, 13 = pansexual
+    public static final DeferredItem<Item> STRAW_BASIC = ITEMS.register("straw_basic",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> STRAW_RAINBOW = ITEMS.register("straw_rainbow",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> STRAW_TRANS = ITEMS.register("straw_trans",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> STRAW_NONBINARY = ITEMS.register("straw_nonbinary",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> STRAW_LESBIAN = ITEMS.register("straw_lesbian",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> STRAW_GAY = ITEMS.register("straw_gay",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> STRAW_GENDERFLUID = ITEMS.register("straw_genderfluid",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> STRAW_ACE = ITEMS.register("straw_ace",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> STRAW_ARO = ITEMS.register("straw_aro",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> STRAW_AROACE = ITEMS.register("straw_aroace",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> STRAW_AGENDER = ITEMS.register("straw_agender",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> STRAW_BI = ITEMS.register("straw_bi",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> STRAW_PAN = ITEMS.register("straw_pan",
+            () -> new Item(new Item.Properties()));
+
 
     // Serving related
     // Glasses
