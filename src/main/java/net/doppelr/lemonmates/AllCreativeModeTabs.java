@@ -93,7 +93,7 @@ public class AllCreativeModeTabs {
     public static final DeferredHolder<CreativeModeTab, CreativeModeTab> PROCESSING_CREATIVE_TAB = CREATIVE_MODE_TABS.register("processing",
         () -> CreativeModeTab.builder()
             .title(Component.translatable("itemGroup." + LemonMates.MOD_ID + ".processing"))
-            .withTabsBefore(AllCreativeModeTabs.BASE_CREATIVE_TAB.getKey())
+            .withTabsBefore(AllCreativeModeTabs.SERVING_CREATIVE_TAB.getKey())
             .icon(() -> new ItemStack(ModItems.BOTTLE_MOLD_WITH_BOTTLE.get()))
             .displayItems((params, output) -> {
                 // Plastic
@@ -151,6 +151,37 @@ public class AllCreativeModeTabs {
                 // Watermelon
                 output.accept(ModItems.WATERMELON_LEMONADE_BOTTLE);
                 output.accept(ModItems.EMPTY_WATERMELON_LEMONADE_BOTTLE);
+            })
+        .build()
+    );
+
+    public static final DeferredHolder<CreativeModeTab, CreativeModeTab> SERVING_CREATIVE_TAB = CREATIVE_MODE_TABS.register("serving",
+        () -> CreativeModeTab.builder()
+            .title(Component.translatable("itemGroup." + LemonMates.MOD_ID + ".serving"))
+            .withTabsBefore(AllCreativeModeTabs.BASE_CREATIVE_TAB.getKey())
+            .icon(() -> new ItemStack(ModBlocks.LEMONADE_GLASS.get()))
+            .displayItems((params, output) -> {
+                // Fruit
+                output.accept(ModItems.CITRON_SLICE);
+                output.accept(ModItems.ORANGE_SLICE);
+
+                // Glass
+                output.accept(ModBlocks.LEMONADE_GLASS);
+
+                // Straws
+                output.accept(ModItems.STRAW_BASIC);
+                output.accept(ModItems.STRAW_RAINBOW);
+                output.accept(ModItems.STRAW_TRANS);
+                output.accept(ModItems.STRAW_NONBINARY);
+                output.accept(ModItems.STRAW_LESBIAN);
+                output.accept(ModItems.STRAW_GAY);
+                output.accept(ModItems.STRAW_GENDERFLUID);
+                output.accept(ModItems.STRAW_ACE);
+                output.accept(ModItems.STRAW_ARO);
+                output.accept(ModItems.STRAW_AROACE);
+                output.accept(ModItems.STRAW_AGENDER);
+                output.accept(ModItems.STRAW_BI);
+                output.accept(ModItems.STRAW_PAN);
             })
         .build()
     );
