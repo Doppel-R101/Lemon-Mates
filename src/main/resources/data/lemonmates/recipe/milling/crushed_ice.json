@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "processing_time": 30,
+  "ingredients": [
+    {
+      "item": "ice"
+    }
+  ],
+  "results": [
+    {
+      "id": "lemonmates:crushed_ice",
+      "count": 4
+    }
+  ]
+}
