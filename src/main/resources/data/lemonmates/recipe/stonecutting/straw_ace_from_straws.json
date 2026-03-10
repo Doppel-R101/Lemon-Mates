@@ -1,7 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "item": "lemonmates:straw_basic"
+    "tag": "lemonmates:drinking_straws"
   },
   "result": {
     "id": "lemonmates:straw_ace",
