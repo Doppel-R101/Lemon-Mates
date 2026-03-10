@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"render_type": "minecraft:translucent",
 	"textures": {
-		"u1": "lemonmates:block/umbrella_8",
+		"u1": "lemonmates:block/drink_umbrella_1",
 		"particle": "lemonmates:item/empty"
 	},
 	"elements": [

@@ -4,7 +4,7 @@
 	"render_type": "minecraft:translucent",
 	"textures": {
 		"s54": "lemonmates:block/flag_color/orange",
-		"s53": "lemonmates:block/flag_color/orange_2",
+		"s53": "lemonmates:block/flag_color/yellow_2",
 		"s52": "lemonmates:block/flag_color/white",
 		"s51": "lemonmates:block/flag_color/blue_3",
 		"s50": "lemonmates:block/flag_color/blue_4",

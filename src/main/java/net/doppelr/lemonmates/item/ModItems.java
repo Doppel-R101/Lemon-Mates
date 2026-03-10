@@ -173,6 +173,20 @@ public class ModItems {
     public static final DeferredItem<Item> STRAW_PAN = ITEMS.register("straw_pan",
             () -> new Item(new Item.Properties()));
 
+    // Umbrellas
+    // Red-White
+    public static final DeferredItem<Item> DRINK_UMBRELLA_1 = ITEMS.register("drink_umbrella_1",
+            () -> new Item(new Item.Properties()));
+    // Yellow-White
+    public static final DeferredItem<Item> DRINK_UMBRELLA_2 = ITEMS.register("drink_umbrella_2",
+            () -> new Item(new Item.Properties()));
+    // Black-Purple
+    public static final DeferredItem<Item> DRINK_UMBRELLA_3 = ITEMS.register("drink_umbrella_3",
+            () -> new Item(new Item.Properties()));
+    // Orange-White
+    public static final DeferredItem<Item> DRINK_UMBRELLA_4 = ITEMS.register("drink_umbrella_4",
+            () -> new Item(new Item.Properties()));
+
 
     // Serving related
     // Glasses

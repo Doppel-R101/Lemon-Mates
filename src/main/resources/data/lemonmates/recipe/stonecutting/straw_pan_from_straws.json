@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "lemonmates:straw_basic"
+  },
+  "result": {
+    "id": "lemonmates:straw_pan",
+    "count": 8
+  }
+}

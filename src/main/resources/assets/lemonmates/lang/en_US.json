@@ -126,10 +126,16 @@
   "item.lemonmates.straw_bi": "Straw (Bisexual Pride Flag)",
   "item.lemonmates.straw_pan": "Straw (Pansexual Pride Flag)",
 
+  "item.lemonmates.drink_umbrella_1": "Drinking Glass Umbrella (Red-White)",
+  "item.lemonmates.drink_umbrella_2": "Drinking Glass Umbrella (Yellow-White)",
+  "item.lemonmates.drink_umbrella_3": "Drinking Glass Umbrella (Black-Purple)",
+  "item.lemonmates.drink_umbrella_4": "Drinking Glass Umbrella (Orange-White)",
+
   "tag.block.lemonmates.citron_logs": "Citron Logs",
   "tag.block.lemonmates.orange_logs": "Orange Logs",
   "tag.item.lemonmates.citron_logs": "Citron Logs",
   "tag.item.lemonmates.orange_logs": "Orange Logs",
+  "tag.item.lemonmates.drinking_straws": "Drinking Straws",
   "tag.item.lemonmates.bottles": "Bottles",
   "tag.item.lemonmates.lemonade_fruits": "Lemonade Fruits",
   "tag.item.lemonmates.lemonade_label_dyes": "Lemonade Label Dyes",

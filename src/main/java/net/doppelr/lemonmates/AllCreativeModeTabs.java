@@ -182,6 +182,12 @@ public class AllCreativeModeTabs {
                 output.accept(ModItems.STRAW_AGENDER);
                 output.accept(ModItems.STRAW_BI);
                 output.accept(ModItems.STRAW_PAN);
+
+                // Umbrellas
+                output.accept(ModItems.DRINK_UMBRELLA_1);
+                output.accept(ModItems.DRINK_UMBRELLA_2);
+                output.accept(ModItems.DRINK_UMBRELLA_3);
+                output.accept(ModItems.DRINK_UMBRELLA_4);
             })
         .build()
     );
