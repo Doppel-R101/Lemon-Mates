@@ -10,6 +10,25 @@
     "lemonmates:incomplete_orange_lemonade",
     "lemonmates:incomplete_raspberry_lemonade",
     "lemonmates:incomplete_summermix_lemonade",
-    "lemonmates:incomplete_watermelon_lemonade"
+    "lemonmates:incomplete_watermelon_lemonade",
+
+    "lemonmates:straw_basic",
+    "lemonmates:straw_rainbow",
+    "lemonmates:straw_trans",
+    "lemonmates:straw_nonbinary",
+    "lemonmates:straw_lesbian",
+    "lemonmates:straw_gay",
+    "lemonmates:straw_genderfluid",
+    "lemonmates:straw_ace",
+    "lemonmates:straw_aro",
+    "lemonmates:straw_aroace",
+    "lemonmates:straw_agender",
+    "lemonmates:straw_bi",
+    "lemonmates:straw_pan",
+
+    "lemonmates:drink_umbrella_1",
+    "lemonmates:drink_umbrella_2",
+    "lemonmates:drink_umbrella_3",
+    "lemonmates:drink_umbrella_4"
   ]
 }
