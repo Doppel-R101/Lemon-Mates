@@ -93,21 +93,6 @@ public class ModItemModelProvider extends ItemModelProvider {
         basicItem(ModItems.BOTTLE_CAP.get());
         basicItem(ModItems.BOTTLE_EMPTY.get());
 
-        basicItem(ModItems.STRAW_BASIC.get());
-        basicItem(ModItems.STRAW_RAINBOW.get());
-        basicItem(ModItems.STRAW_TRANS.get());
-        basicItem(ModItems.STRAW_NONBINARY.get());
-        basicItem(ModItems.STRAW_LESBIAN.get());
-        basicItem(ModItems.STRAW_GAY.get());
-        basicItem(ModItems.STRAW_GENDERFLUID.get());
-        basicItem(ModItems.STRAW_ACE.get());
-        basicItem(ModItems.STRAW_ARO.get());
-        basicItem(ModItems.STRAW_AROACE.get());
-        basicItem(ModItems.STRAW_AGENDER.get());
-        basicItem(ModItems.STRAW_BI.get());
-        basicItem(ModItems.STRAW_PAN.get());
-
-
         ModFluids.BUCKETS.getEntries().forEach(item -> bucketItem((DeferredHolder<Item, BucketItem>) item));
     }
 

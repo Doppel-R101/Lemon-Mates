@@ -3,9 +3,9 @@
 	"credit": "Made with Blockbench",
 	"render_type": "minecraft:translucent",
 	"textures": {
-		"s32": "lemonmates:block/flag_color/",
-		"s31": "lemonmates:block/flag_color/",
-		"s30": "lemonmates:block/flag_color/",
+		"s32": "lemonmates:block/flag_color/magenta_2",
+		"s31": "lemonmates:block/flag_color/yellow",
+		"s30": "lemonmates:block/flag_color/blue_7",
 		"particle": "lemonmates:item/empty"
 	},
 	"elements": [

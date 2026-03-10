@@ -1,6 +1,7 @@
 {
   "itemGroup.lemonmates.base": "Lemonmates",
   "itemGroup.lemonmates.processing": "Lemonmates Processing",
+  "itemGroup.lemonmates.serving": "Lemonmates Serving",
 
   "item.lemonmates.incomplete_citron_lemonade": "Incomplete Citron Lemonade",
   "item.lemonmates.incomplete_orange_lemonade": "Incomplete Orange Lemonade",

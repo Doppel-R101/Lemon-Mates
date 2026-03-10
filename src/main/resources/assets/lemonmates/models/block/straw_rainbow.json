@@ -3,12 +3,12 @@
 	"credit": "Made with Blockbench",
 	"render_type": "minecraft:translucent",
 	"textures": {
-		"s65": "lemonmates:block/flag_color/",
-		"s64": "lemonmates:block/flag_color/",
-		"s63": "lemonmates:block/flag_color/",
-		"s62": "lemonmates:block/flag_color/",
-		"s61": "lemonmates:block/flag_color/",
-		"s60": "lemonmates:block/flag_color/",
+		"s65": "lemonmates:block/flag_color/red",
+		"s64": "lemonmates:block/flag_color/orange",
+		"s63": "lemonmates:block/flag_color/yellow",
+		"s62": "lemonmates:block/flag_color/green",
+		"s61": "lemonmates:block/flag_color/blue",
+		"s60": "lemonmates:block/flag_color/purple",
 		"particle": "lemonmates:item/empty"
 	},
 	"elements": [

@@ -3,11 +3,11 @@
 	"credit": "Made with Blockbench",
 	"render_type": "minecraft:translucent",
 	"textures": {
-		"s54": "lemonmates:block/flag_color/",
-		"s53": "lemonmates:block/flag_color/",
-		"s52": "lemonmates:block/flag_color/",
-		"s51": "lemonmates:block/flag_color/",
-		"s50": "lemonmates:block/flag_color/",
+		"s50": "lemonmates:block/flag_color/blue_7",
+		"s51": "lemonmates:block/flag_color/pink",
+		"s52": "lemonmates:block/flag_color/white",
+		"s53": "lemonmates:block/flag_color/pink",
+		"s54": "lemonmates:block/flag_color/blue_7",
 		"particle": "lemonmates:item/empty"
 	},
 	"elements": [
