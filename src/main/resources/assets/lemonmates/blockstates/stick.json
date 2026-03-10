@@ -1,0 +1,76 @@
+{
+	"parent": "minecraft:generated",
+	"textures": {
+		"layer0": "item/stick"
+	},
+
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/lemonade_glass"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "item/lemon_slice"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "item/orange_slice"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "item/umbrella"
+		},
+
+
+
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "item/lemonade_glass_fluid_half"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "item/lemonade_glass_fluid_full"
+		},
+
+
+
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "item/straw_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "item/straw_4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "item/straw_5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "item/straw_6"
+		}
+
+		]
+}
