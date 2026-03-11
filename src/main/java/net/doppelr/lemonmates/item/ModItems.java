@@ -189,7 +189,7 @@ public class ModItems {
 
 
     // Serving related
-    public static final DeferredItem<Item> CRUSHED_ICE = ITEMS.register("crushed_ice",
+    public static final DeferredItem<Item> ICE_CUBES = ITEMS.register("ice_cubes",
             () -> new Item(new Item.Properties()));
 
 

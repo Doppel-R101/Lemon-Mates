@@ -167,7 +167,7 @@ public class AllCreativeModeTabs {
 
                 // Glass
                 output.accept(ModBlocks.LEMONADE_GLASS);
-                output.accept(ModItems.CRUSHED_ICE);
+                output.accept(ModItems.ICE_CUBES);
 
                 // Straws
                 output.accept(ModItems.STRAW_BASIC);
